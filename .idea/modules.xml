@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../DRYOPE-Angular/.idea/DRYOPE-Angular.iml" filepath="$PROJECT_DIR$/../DRYOPE-Angular/.idea/DRYOPE-Angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DRYOPE-Angular.iml" filepath="$PROJECT_DIR$/.idea/DRYOPE-Angular.iml" />
     </modules>
   </component>
 </project>
