@@ -1,5 +1,10 @@
 # DRYOPE-Angular
 
+For bootstrap go to : https://github.com/valor-software/ng2-bootstrap
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
 
 ## Development server

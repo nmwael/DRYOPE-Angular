@@ -7,12 +7,14 @@ import {AppComponent} from './app.component';
 import {HeroListComponent} from './hero/hero-list.component';
 import { TimeComponent } from './time/time.component';
 import {routing} from './app.routing';
+import { BootstrapComponent } from './bootstrap/bootstrap.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeroListComponent,
-    TimeComponent
+    TimeComponent,
+    BootstrapComponent
   ],
   imports: [
     BrowserModule,
