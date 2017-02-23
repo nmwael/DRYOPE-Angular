@@ -4,3 +4,4 @@ export class Hero {
   years: number[];
   image: string;
 }
+
