@@ -1,8 +1,8 @@
 import { ModuleWithProviders } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import {HeroListComponent} from './hero/hero-list.component';
-import {TimeComponent} from './time/time.component';
+import {HeroListComponent} from '../hero/hero-list.component';
+import {TimeComponent} from '../time/time.component';
 
 const appRoutes: Routes = [
   // { path: '', redirectTo: '/home', pathMatch: 'full' },
