@@ -1,0 +1,31 @@
+.italic-text {
+  font-style: italic;
+}
+
+.small-text {
+  font-size: 75%;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.show-class {
+  /*display: ;*/
+}
+
+.hide-class {
+  display: none;
+}
